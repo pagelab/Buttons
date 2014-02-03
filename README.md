@@ -1,7 +1,17 @@
+About
+=======
+This library has been ported over to use [Bourbon](http://bourbon.io) instead of compass. Currently I'm using it with no issue on a node / angularjs project.
+
+I will be adding mixins in the future to keep with Bourbon style.
+
+Feel free to fork and make changes.
+
+Thanks to [Alex Wolfe](https://twitter.com/alexwolfe) and [Rob Levin](https://twitter.com/roblevintennis) for all the hard work.
+
 Buttons
 =======
 
-Buttons is a fully customizable CSS button library that's built using Sass & Compass, and created by [Alex Wolfe](https://twitter.com/alexwolfe) and [Rob Levin](https://twitter.com/roblevintennis).
+Buttons is a fully customizable CSS button library that's built using Sass & Bourbon, and created by [Alex Wolfe](https://twitter.com/alexwolfe) and [Rob Levin](https://twitter.com/roblevintennis).
 
 Quickly get started by [visiting the Buttons Builder Website](http://alexwolfe.github.io/Buttons/) where you can view live examples and fully customize your Buttons download.
 
